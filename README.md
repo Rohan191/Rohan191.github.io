@@ -1,2 +1,2 @@
 # Rohan191.github.io
-Personal website using GitHub pages.
+Personal website of Rohan Tondulkar to showcase his projects (using GitHub pages).
